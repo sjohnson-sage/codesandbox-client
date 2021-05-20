@@ -1,6 +1,6 @@
 {
 	"name": "codesandbox-theme",
-	"displayName": "CodeSandbox Theme",
+	"displayName": "CodeSandbox Theme Classic",
 	"description": "CodeSandbox theme for VSCode.",
 	"version": "0.0.1",
 	"publisher": "ngryman",
@@ -15,7 +15,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "CodeSandbox",
+				"label": "CodeSandbox Classic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/CodeSandbox-color-theme.json"
 			}
